@@ -9,4 +9,6 @@ The code in MatchNutsBolts.java was written by me with the code for the
 nuts and bolts provided by the instructor. In order to run, simply compile
 in your preferred method and be sure to uncomment the main function.
 
-Main function was commented as part of turning in the assignment.
+Main function was commented out as part of turning in the assignment.
+
+Code is complete and fully commented.
